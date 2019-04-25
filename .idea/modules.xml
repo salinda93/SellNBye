@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Login_v4/.idea/Login_v4.iml" filepath="$PROJECT_DIR$/../Login_v4/.idea/Login_v4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/divisima.iml" filepath="$PROJECT_DIR$/.idea/divisima.iml" />
     </modules>
   </component>
