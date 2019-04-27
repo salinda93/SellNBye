@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../ITPM/.idea/ITPM.iml" filepath="$PROJECT_DIR$/../ITPM/.idea/ITPM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OnlineAuctionSystem/.idea/OnlineAuctionSystem.iml" filepath="$PROJECT_DIR$/../OnlineAuctionSystem/.idea/OnlineAuctionSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/divisima.iml" filepath="$PROJECT_DIR$/.idea/divisima.iml" />
     </modules>
   </component>
