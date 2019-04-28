@@ -33,7 +33,7 @@
         <div class="wrapper wrapper--w680">
             <div class="card card-4">
                 <div class="card-body">
-                    <h2 class="title">Registration Form</h2>
+                    <h2 class="title">Add new product</h2>
                     <form method="POST">
                         <div class="row row-space">
                             <div class="col-2">
@@ -74,39 +74,24 @@
                             </div>
                             <div class="col-2">
                                 <div class="input-group">
-                                    <label class="label">last name</label>
-                                    <input class="input--style-4" type="text" name="last_name">
+                                    <label class="label">Product weight(G)</label>
+                                    <input class="input--style-4" type="number" name="last_name">
                                 </div>
                             </div>
                         </div>
                         <div class="row row-space">
                             <div class="col-2">
                                 <div class="input-group">
-                                    <label class="label">first name</label>
-                                    <input class="input--style-4" type="text" name="first_name">
+                                    <label class="label">Date</label>
+                                    <div class="input-group-icon">
+                                        <input class="input--style-4 js-datepicker" type="text" name="birthday">
+                                        <i class="zmdi zmdi-calendar-note input-icon js-btn-calendar"></i>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-2">
-                                <div class="input-group">
-                                    <label class="label">last name</label>
-                                    <input class="input--style-4" type="text" name="last_name">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="input-group">
-                            <label class="label">Subject</label>
-                            <div class="rs-select2 js-select-simple select--no-search">
-                                <select name="subject">
-                                    <option disabled="disabled" selected="selected">Choose option</option>
-                                    <option>Subject 1</option>
-                                    <option>Subject 2</option>
-                                    <option>Subject 3</option>
-                                </select>
-                                <div class="select-dropdown"></div>
                             </div>
                         </div>
                         <div class="p-t-15">
-                            <button class="btn btn--radius-2 btn--blue" type="submit">Submit</button>
+                            <button class="btn btn--radius-2 btn--blue" type="submit">Add Product</button>
                         </div>
                     </form>
                 </div>
