@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6174ec0b-3c9f-4790-985c-2fcf3a5f7b7a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/divisima.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/divisima.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Seller/addProduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/addProduct.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seller/seller.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seller/seller.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,20 +16,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Seller/seller.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="82" column="55" selection-start-line="82" selection-start-column="55" selection-end-line="82" selection-end-column="55" />
+            <state relative-caret-position="185">
+              <caret line="442" column="46" selection-start-line="442" selection-start-column="46" selection-end-line="442" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Seller/addProduct.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="641">
-              <caret line="106" column="30" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
+            <state relative-caret-position="204">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Seller/updateProduct.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1209">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../colorlib-regform-5/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="658">
+              <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -70,12 +92,13 @@
         <option value="$PROJECT_DIR$/../ITPM_dinuka/index.php" />
         <option value="$PROJECT_DIR$/../ITPM_dinuka/main.php" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/Seller/seller.html" />
         <option value="$PROJECT_DIR$/../ITPM/logout2.php" />
         <option value="$PROJECT_DIR$/../ITPM/course.php" />
         <option value="$PROJECT_DIR$/../ITPM/materials.php" />
         <option value="$PROJECT_DIR$/../ITPM/main.php" />
         <option value="$PROJECT_DIR$/Seller/addProduct.html" />
+        <option value="$PROJECT_DIR$/Seller/updateProduct.html" />
+        <option value="$PROJECT_DIR$/Seller/seller.html" />
       </list>
     </option>
   </component>
@@ -102,8 +125,12 @@
             </path>
             <path>
               <item name="divisima" type="b2602c69:ProjectViewProjectNode" />
-              <item name="divisima" type="462c0819:PsiDirectoryNode" />
-              <item name="Seller" type="462c0819:PsiDirectoryNode" />
+              <item name="ITPM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="divisima" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ITPM" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,7 +190,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40987000" />
+    <option name="totallyTimeSpent" value="43788000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -243,13 +270,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1332">
-          <caret line="797" column="9" selection-start-line="797" selection-start-column="9" selection-end-line="797" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ITPM/user_status.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -339,25 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="4" column="6590" selection-start-line="4" selection-start-column="6584" selection-end-line="4" selection-end-column="6590" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/course.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-889">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding>
-            <element signature="e#84#90#0" expanded="true" />
-            <element signature="e#157#164#1" expanded="true" />
-            <element signature="e#78#84#0" expanded="true" />
-            <element signature="e#151#158#1" expanded="true" />
-            <element signature="e#76#82#0" expanded="true" />
-            <element signature="e#149#156#1" expanded="true" />
-            <element signature="e#74#80#0" expanded="true" />
-            <element signature="e#147#154#1" expanded="true" />
-            <element signature="e#76#82#0" expanded="true" />
-            <element signature="e#149#156#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -458,13 +459,6 @@
     <entry file="file://$PROJECT_DIR$/Seller/css/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../colorlib-regform-5/addProduct.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="57" column="45" lean-forward="true" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -489,13 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ITPM/course.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ITPM/materials.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -517,17 +504,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seller/seller.html">
+    <entry file="file://$PROJECT_DIR$/../colorlib-regform-5/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="82" column="55" selection-start-line="82" selection-start-column="55" selection-end-line="82" selection-end-column="55" />
+        <state relative-caret-position="658">
+          <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Seller/addProduct.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="106" column="30" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
+        <state relative-caret-position="204">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seller/updateProduct.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1209">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/course.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3895">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ITPM/Admin/course.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4675">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding>
+            <element signature="e#84#90#0" expanded="true" />
+            <element signature="e#157#164#1" expanded="true" />
+            <element signature="e#78#84#0" expanded="true" />
+            <element signature="e#151#158#1" expanded="true" />
+            <element signature="e#76#82#0" expanded="true" />
+            <element signature="e#149#156#1" expanded="true" />
+            <element signature="e#74#80#0" expanded="true" />
+            <element signature="e#147#154#1" expanded="true" />
+            <element signature="e#76#82#0" expanded="true" />
+            <element signature="e#149#156#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seller/seller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="442" column="46" selection-start-line="442" selection-start-column="46" selection-end-line="442" selection-end-column="46" />
         </state>
       </provider>
     </entry>

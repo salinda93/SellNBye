@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="OnlineAuctionSystem" />
     <orderEntry type="module" module-name="ITPM" />
+    <orderEntry type="module" module-name="colorlib-regform-5" />
   </component>
 </module>
