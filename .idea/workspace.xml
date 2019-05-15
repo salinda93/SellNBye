@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6174ec0b-3c9f-4790-985c-2fcf3a5f7b7a" name="Default Changelist" comment="Comit index.html page">
+    <list default="true" id="6174ec0b-3c9f-4790-985c-2fcf3a5f7b7a" name="Default Changelist" comment="Comit login.html page">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Login.html" afterPath="$PROJECT_DIR$/Login.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -121,7 +120,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="745" />
@@ -210,7 +209,7 @@
       <workItem from="1556063401036" duration="3075000" />
       <workItem from="1556155564067" duration="3451000" />
       <workItem from="1556165460432" duration="24924000" />
-      <workItem from="1557901408840" duration="1296000" />
+      <workItem from="1557901408840" duration="1677000" />
     </task>
     <task id="LOCAL-00001" summary="Comit index.html page">
       <created>1557903397882</created>
@@ -219,11 +218,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557903397882</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Comit login.html page">
+      <created>1557903579528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557903579528</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45084000" />
+    <option name="totallyTimeSpent" value="45465000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -235,7 +241,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -292,7 +298,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Comit index.html page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comit index.html page" />
+    <MESSAGE value="Comit login.html page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comit login.html page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
